@@ -1,4 +1,4 @@
-# Exp.No:31  
+# Exp.No: 13B  
 ## IMPLEMENTATION OF STACK
 
 ---
@@ -27,6 +27,9 @@ To write a Python program to implement a stack using a list and its built-in met
 ### PROGRAM
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 stack = []
 for i in range(7):
     a=input()
