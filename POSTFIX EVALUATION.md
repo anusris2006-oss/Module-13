@@ -1,4 +1,4 @@
-# Exp.No:33  
+# Exp.No: 13C  
 ## POSTFIX EVALUATION
 
 ---
@@ -32,6 +32,9 @@ To write a Python program to evaluate a user-given Postfix expression that conta
 ### PROGRAM
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 OPERATORS=set(['','-','+','%','/','*']) 
 
 
