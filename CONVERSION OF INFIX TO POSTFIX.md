@@ -1,4 +1,4 @@
-# Exp.No:32  
+# Exp.No:13A  
 ## CONVERSION OF INFIX TO POSTFIX
 
 ---
@@ -30,6 +30,9 @@ To write a Python program to convert a given Infix expression to Postfix express
 ### PROGRAM
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 Operators = set(['&', '-', '/','(',')']) # collection of Operators
 
 Priority = {'&':1,'-':2,'/':3} 
