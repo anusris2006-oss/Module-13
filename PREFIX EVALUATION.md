@@ -1,4 +1,4 @@
-# Exp.No:34  
+# Exp.No: 13D
 ## PREFIX EVALUATION
 
 ---
@@ -28,6 +28,9 @@ To write a Python program to evaluate a user-given Prefix expression using a sta
 ### PROGRAM
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 OPERATORS=set(['*','-','+','*']) 
 
 def evaluate(expression):
