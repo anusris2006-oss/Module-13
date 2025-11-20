@@ -1,4 +1,4 @@
-# Exp.No:35  
+# Exp.No: 13E
 ## TOWER OF HANOI
 
 ---
@@ -32,6 +32,9 @@ Consider the names of the tower pegs as A, B, C. Get the number of disks value f
 ### PROGRAM  
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 def TowerOfHanoi(n , source, destination, auxiliary):
     if(n>0):
         TowerOfHanoi(n-1,source,auxiliary,destination)
